@@ -1,0 +1,18 @@
+{
+  "name": "ashrafur-va-portfolio",
+  "version": "1.0.0",
+  "description": "Advanced responsive Virtual Assistant portfolio website for Ashrafur Rahman.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "virtual-assistant",
+    "personal-website",
+    "freelancer",
+    "bangladesh"
+  ],
+  "author": "Ashrafur Rahman",
+  "license": "UNLICENSED"
+}
