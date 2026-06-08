@@ -8,6 +8,12 @@ Advanced responsive Virtual Assistant portfolio website for Ashrafur Rahman, fea
 
 ## Live Preview
 
+Live website:
+
+```text
+https://asem758.github.io/ashrafur-va-portfolio/
+```
+
 Run the project locally and open:
 
 ```text
@@ -68,6 +74,7 @@ ashrafur-portfolio/
 |-- index.html
 |-- server.js
 |-- README.md
+|-- .nojekyll
 `-- src/
     |-- app.js
     |-- styles.css
